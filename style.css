@@ -58,7 +58,7 @@ div {
     border: 3px rgb(107, 78, 54) dotted;
     background-color:rgb(228, 228, 228);
     background-clip: padding-box;
-    display: inline-block;
+    flex: 1;
     
 }
 /* -------------------------------------------------------------------------- */
